@@ -1,0 +1,29 @@
+{
+  "name": "homebridge-sst-cloud",
+  "version": "1.0.0",
+  "description": "This plugin allows to list and manage your smart devices connected to the SST Cloud.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalamar/homebridge-sst-cloud.git"
+  },
+  "keywords": [
+    "homebridge",
+    "sst",
+    "sst",
+    "cloud",
+    "sst-cloud",
+    "equation",
+    "equation",
+    "wi-fi"
+  ],
+  "author": "Alexey Pikulik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dalamar/homebridge-sst-cloud/issues"
+  },
+  "homepage": "https://github.com/Dalamar/homebridge-sst-cloud#readme"
+}
